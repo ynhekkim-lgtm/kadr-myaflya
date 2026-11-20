@@ -1,0 +1,12 @@
+{
+    "display_name": "Кадр Мяфли",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Вика-Мяфля (@vika_myaflay)",
+    "version": "1.0.0",
+    "homePage": "https://t.me/vika_myaflay",
+    "auto_update": false
+}
